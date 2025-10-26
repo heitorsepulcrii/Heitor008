@@ -1,18 +1,18 @@
-# 👩🏻‍💻 Heitor Sepulcri
+# 💻 Heitor Sepulcri
 
 **`Desenvolvedor FrontEnd`**
 
 Olá, me chamo Heitor, tenho 19 anos, sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UninSant'Anna. 💭 Meu objetivo como estudante é **unir teoria e prática** para me tornar um desenvolvedor completo, capaz de criar soluções eficientes e inovadoras, sempre com curiosidade e vontade de aprender mais a cada linha de código. Sempre em busca de aprender algo novo, compartilhar experiências e construir projetos com propósito.
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/heitorsepulcrii?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/heitorsepulcrii?color=f0db4f&style=for-the-badge&labelColor=151515&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/heitorsepulcrii?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
